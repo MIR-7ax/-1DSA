@@ -2,16 +2,6 @@
 
 Java practice solutions organized by platform.
 
-## Structure
-
-| Folder | Platform |
-|---|---|
-| `02_Codeforces/` | Codeforces |
-| `03_leetcde/` | LeetCode |
-| `04_GFG/` | GeeksforGeeks |
-| `05_HackerRank/` | HackerRank |
-| `06_SI/` | (Self-improvement / misc) |
-| `0_Labuladong/` | Labuladong course (`basics/`, `ch0_getstrted/`) |
 
 ## Running
 
